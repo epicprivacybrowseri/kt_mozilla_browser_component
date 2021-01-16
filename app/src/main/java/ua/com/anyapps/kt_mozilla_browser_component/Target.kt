@@ -1,0 +1,32 @@
+package ua.com.anyapps.kt_mozilla_browser_component
+
+enum class Target {
+    BEDO,
+    BEHANCE,
+    BLOGGER,
+    DEVIANTART,
+    DIGG,
+    DRIBBBLE,
+    FACEBOOK,
+    FLICKR,
+    FORRST,
+    GOOGLE_PLUS,
+    INSTAGRAM,
+    LINE,
+    LINKEDIN,
+    MYSPACE,
+    PINTEREST,
+    PLURK,
+    RSS,
+    SKYPE,
+    TELEGRAM,
+    TUMBLR,
+    TWITTER,
+    VIBER,
+    VIMEO,
+    VINE,
+    VK,
+    WHATSAPP,
+    XING,
+    YOUTUBE
+}
